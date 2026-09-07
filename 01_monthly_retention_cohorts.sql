@@ -1,4 +1,4 @@
--- 01_monthly_retention_cohorts.sql
+sql/queries/01_monthly_retention_cohorts.sql
 -- Business question: "Of the customers who placed their first order in
 -- month X, what % placed another order in each following month?"
 -- This is the standard cohort retention table used to judge whether
